@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Age Calculator [Live Link](https://name-conversion-js.netlify.app/)
+## Age Calculator [Live Link](https://agecalculator-js-8.netlify.app/)
 
 - Skills Gained in this project
 
